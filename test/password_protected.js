@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html>
-<style>
-    body {
-    background-color:#555555
-    }
-</style>
-<script>
 alert("Who are you?");
 alert("Sign in information:");
 var password = prompt("Password?");
@@ -14,5 +6,3 @@ alert("Access granted");
 }else{
 history.back();
 }
-</script>
-</html>
